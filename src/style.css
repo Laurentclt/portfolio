@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "russo-one";
+    src: url(/fonts/RussoOne-Regular.ttf);
+}
+
+body {
+    background-color: #F8FFF4;
+}
+.dark {
+    background-color: #474350;
+}
