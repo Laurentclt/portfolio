@@ -150,7 +150,7 @@ let projectsDisplayed = reactive<{value: Array<Project>}>({ value: []})
         </h3>
       </div>
       
-      <img id="profil" src="./assets/images/photos/image profil détouré.png" alt="Myself" class="rounded-full h-80  border-Pgreen border-solid border-b-8 dark:border-Pred">
+      <img id="profil" src="./assets/images/photos/image_profil_détouré.png" alt="Myself" class="rounded-full h-80  border-Pgreen border-solid border-b-8 dark:border-Pred">
     </section>
 
     <!-- Titles + profil picture -->
