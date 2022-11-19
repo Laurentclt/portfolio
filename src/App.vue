@@ -14,7 +14,7 @@ const vuejs: Language = { name : "VueJs", image_path: 'src/assets/images/logos/p
 const projects: Array<Project> = [
     {
         title: "Poker planning App",
-        background_path: 'src/assets/images/projects/planning-poker-app.png',
+        background_path: 'public/assets/images/projects/planning-poker-app.png',
         languages_used: [
             angular,
             typescript,
@@ -23,7 +23,7 @@ const projects: Array<Project> = [
     },
     {
         title: "Personal website",
-        background_path: "src/assets/images/projects/portfolio.png",
+        background_path: "public/assets/images/projects/portfolio.png",
         languages_used: [
             vuejs,
             typescript
@@ -31,7 +31,7 @@ const projects: Array<Project> = [
     },
     {
         title: "test",
-        background_path: "src/assets/images/projects/portfolio.png",
+        background_path: "public/assets/images/projects/portfolio.png",
         languages_used: [
             vuejs,
             typescript
